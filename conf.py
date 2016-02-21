@@ -31,6 +31,7 @@ import shlex
 # ones.
 extensions = [
     'sphinx.ext.todo',
+    'sphinxcontrib.images'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -284,3 +285,8 @@ texinfo_documents = [
 
 # If true, do not generate a @detailmenu in the "Top" node's menu.
 #texinfo_no_detailmenu = False
+
+
+images_config = {
+    'default_image_width': '25%'
+}
