@@ -1,22 +1,21 @@
-.. TrinityCore documentation master file, created by
-   sphinx-quickstart on Tue Dec 08 16:34:42 2015.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+TrinityCore 3.3.5 Documentation
+===============================
 
-Welcome to TrinityCore's documentation!
-=======================================
+Welcome to the documentation for TrinityCore 3.3.5.
 
-Contents:
+Use the table of contents to navigate through the documentation, or, if you have a specific issue,
+try searching.
 
 .. toctree::
+   :caption: Contents
    :maxdepth: 2
 
+   docs/compiling/index
 
 
-Indices and tables
-==================
+Indices & Tables
+----------------
 
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
